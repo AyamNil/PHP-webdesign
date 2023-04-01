@@ -1,0 +1,1 @@
+Frow Folder "Award" to Sarpras must be inserted to A folder named "Images" then "Foto"
